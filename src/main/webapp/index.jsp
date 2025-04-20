@@ -2,6 +2,6 @@
 <body>
 <h2>Hello World!</h2>
 <p>Still alive and kicking!</p>
-<p>$(date)</p>
+<p>Second modification</p>
 </body>
 </html>
